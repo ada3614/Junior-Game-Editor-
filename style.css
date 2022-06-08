@@ -5,7 +5,6 @@
 }
 
 body {
-    /* display: flex; */
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -30,7 +29,6 @@ body {
 
 .wrapper {
     position: relative;
-    /* align-items: center; */
     margin: auto;
     width: 350px;
     height: 94%;
@@ -52,7 +50,6 @@ body {
 .element-1 {
     width: 200px;
     padding: 5px;
-    /* justify-content: center; */
 }
 
 .element-2 {
